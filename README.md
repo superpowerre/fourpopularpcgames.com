@@ -34,7 +34,7 @@
         <h1>Four Popular Games(Group Project)</h1>
     </header>
 
-   <a href="https://superpowerre.github.io/fourpopularpcgames.com/Four Popular Games(Group project)"> <h1> Start <h1> </a>
+   <a href="https://superpowerre.github.io/fourpopularpcgames.com/Four Popular Games(Group project)"> <h1> Start </h1> </a>
 
     
     
